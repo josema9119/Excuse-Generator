@@ -1,3 +1,5 @@
+# EXCUSE GENERATOR
+Proyecto en el que se realiza un generador de excusas cada vez que se refresca la pagina web. Para ello he creado una funcion declarando unos strings en arrays
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
